@@ -1,6 +1,5 @@
-# E-Commerce-Data-Analysis-using-Python-Plotly
-End-to-end E-Commerce data analysis using Python, Pandas, and Plotly. Includes data cleaning, EDA, time-series analysis, category-level insights, profit analysis, and interactive visualizations.
 # 📦 E-Commerce Data Analysis Project (Python + Pandas + Plotly)
+End-to-end E-Commerce data analysis using Python, Pandas, and Plotly. Includes data cleaning, EDA, time-series analysis, category-level insights, profit analysis, and interactive visualizations.
 
 This project analyzes a real-world **E-Commerce “Superstore” dataset** using Python.  
 It covers sales, profit, customer segments, product categories, and time-series patterns using Pandas and interactive Plotly visualizations.
